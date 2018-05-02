@@ -10,25 +10,25 @@
 			<key>filename</key>
 			<string>SCI-prediction-simple.R</string>
 			<key>lastUsed</key>
-			<date>2017-09-26T12:45:30Z</date>
+			<date>2018-04-11T12:57:19Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>SCI-prediction.R</string>
 			<key>lastUsed</key>
-			<date>2017-08-21T13:13:26Z</date>
+			<date>2018-04-11T07:34:01Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>SCI-utils.R</string>
 			<key>lastUsed</key>
-			<date>2017-10-25T08:39:03Z</date>
+			<date>2018-04-11T12:57:19Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
-	<integer>373</integer>
+	<integer>189</integer>
 	<key>metaData</key>
 	<dict>
 		<key>SCI-prediction-simple.R</key>
@@ -36,9 +36,23 @@
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>51</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>12</integer>
+				<integer>16</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+		<key>SCI-prediction.R</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>0</integer>
+				<key>line</key>
+				<integer>9</integer>
 			</dict>
 			<key>columnSelection</key>
 			<false/>
@@ -49,45 +63,47 @@
 			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
-				<integer>35</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>12</integer>
+				<integer>8</integer>
 			</dict>
 			<key>selectTo</key>
 			<dict>
 				<key>column</key>
-				<integer>51</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>12</integer>
+				<integer>9</integer>
 			</dict>
-		</dict>
-		<key>SCI-prediction.R</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>40</integer>
-				<key>line</key>
-				<integer>89</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>51</integer>
 		</dict>
 		<key>SCI-utils.R</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>10</integer>
+				<integer>41</integer>
 				<key>line</key>
-				<integer>179</integer>
+				<integer>4</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>168</integer>
+			<integer>0</integer>
+			<key>selectFrom</key>
+			<dict>
+				<key>column</key>
+				<integer>24</integer>
+				<key>line</key>
+				<integer>4</integer>
+			</dict>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>41</integer>
+				<key>line</key>
+				<integer>4</integer>
+			</dict>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
@@ -99,6 +115,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{376, 44}, {894, 733}}</string>
+	<string>{{-1176, -92}, {1000, 733}}</string>
 </dict>
 </plist>
